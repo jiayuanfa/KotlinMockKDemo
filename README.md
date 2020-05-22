@@ -4,7 +4,7 @@ Kotlin下使用MockK模拟单元测试
 
 #### 库的引入
 ```kotlin
-testImplementation "io.mockk:mockk:1.9.3"
+    testImplementation "io.mockk:mockk:1.9.3"
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.0-M2'
     testImplementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.3.0-M2'
 
